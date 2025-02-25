@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeTexto\Editor_de_Textos\Editor_de_Textos\bin\Debug\net8.0\Editor_de_Textos.exe
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeTexto\Editor_de_Textos\Editor_de_Textos\bin\Debug\net8.0\Editor_de_Textos.deps.json
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeTexto\Editor_de_Textos\Editor_de_Textos\bin\Debug\net8.0\Editor_de_Textos.runtimeconfig.json
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeTexto\Editor_de_Textos\Editor_de_Textos\bin\Debug\net8.0\Editor_de_Textos.dll
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeTexto\Editor_de_Textos\Editor_de_Textos\bin\Debug\net8.0\Editor_de_Textos.pdb
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeTexto\Editor_de_Textos\Editor_de_Textos\obj\Debug\net8.0\Editor_de_Textos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeTexto\Editor_de_Textos\Editor_de_Textos\obj\Debug\net8.0\Editor_de_Textos.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeTexto\Editor_de_Textos\Editor_de_Textos\obj\Debug\net8.0\Editor_de_Textos.AssemblyInfo.cs
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeTexto\Editor_de_Textos\Editor_de_Textos\obj\Debug\net8.0\Editor_de_Textos.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeTexto\Editor_de_Textos\Editor_de_Textos\obj\Debug\net8.0\Editor_de_Textos.dll
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeTexto\Editor_de_Textos\Editor_de_Textos\obj\Debug\net8.0\refint\Editor_de_Textos.dll
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeTexto\Editor_de_Textos\Editor_de_Textos\obj\Debug\net8.0\Editor_de_Textos.pdb
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeTexto\Editor_de_Textos\Editor_de_Textos\obj\Debug\net8.0\Editor_de_Textos.genruntimeconfig.cache
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeTexto\Editor_de_Textos\Editor_de_Textos\obj\Debug\net8.0\ref\Editor_de_Textos.dll
