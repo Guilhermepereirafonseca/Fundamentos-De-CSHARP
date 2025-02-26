@@ -1,0 +1,14 @@
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeHTML\Editor_de_HTML\Editor_de_HTML\bin\Debug\net8.0\Editor_de_HTML.exe
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeHTML\Editor_de_HTML\Editor_de_HTML\bin\Debug\net8.0\Editor_de_HTML.deps.json
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeHTML\Editor_de_HTML\Editor_de_HTML\bin\Debug\net8.0\Editor_de_HTML.runtimeconfig.json
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeHTML\Editor_de_HTML\Editor_de_HTML\bin\Debug\net8.0\Editor_de_HTML.dll
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeHTML\Editor_de_HTML\Editor_de_HTML\bin\Debug\net8.0\Editor_de_HTML.pdb
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeHTML\Editor_de_HTML\Editor_de_HTML\obj\Debug\net8.0\Editor_de_HTML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeHTML\Editor_de_HTML\Editor_de_HTML\obj\Debug\net8.0\Editor_de_HTML.AssemblyInfoInputs.cache
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeHTML\Editor_de_HTML\Editor_de_HTML\obj\Debug\net8.0\Editor_de_HTML.AssemblyInfo.cs
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeHTML\Editor_de_HTML\Editor_de_HTML\obj\Debug\net8.0\Editor_de_HTML.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeHTML\Editor_de_HTML\Editor_de_HTML\obj\Debug\net8.0\Editor_de_HTML.dll
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeHTML\Editor_de_HTML\Editor_de_HTML\obj\Debug\net8.0\refint\Editor_de_HTML.dll
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeHTML\Editor_de_HTML\Editor_de_HTML\obj\Debug\net8.0\Editor_de_HTML.pdb
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeHTML\Editor_de_HTML\Editor_de_HTML\obj\Debug\net8.0\Editor_de_HTML.genruntimeconfig.cache
+C:\Users\PC\Desktop\balta.io_CSHARP\Projects\EditorDeHTML\Editor_de_HTML\Editor_de_HTML\obj\Debug\net8.0\ref\Editor_de_HTML.dll
